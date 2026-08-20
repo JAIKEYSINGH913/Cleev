@@ -106,4 +106,4 @@ npm run dev   # Starts the Next.js app on port 3000
 Navigate to `http://localhost:3000` to explore the application!
 
 ## ?? Screenshots
-*(Note: Add screenshots of your Dashboard, Group Modal, and Circular Debt resolution screens here before final submission!)*
+![alt text](<Screenshot 2026-08-20 181845-1.png>)![alt text](<Screenshot 2026-08-20 181755-1.png>)
