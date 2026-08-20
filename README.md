@@ -1,4 +1,4 @@
-﻿# Cleev: Smart Expense Splitting & Debt Resolution
+# Cleev: Smart Expense Splitting & Debt Resolution
 
 Cleev is a modern, graph-powered web application designed to eliminate the friction of shared expenses. Whether you're traveling with friends, splitting rent with roommates, or organizing office lunches, Cleev tracks who paid what, precisely calculates who owes whom, and visually resolves complex webs of debt.
 
@@ -62,6 +62,10 @@ RETURN youOwe, youAreOwed, (youAreOwed - youOwe) as netBalance
 * **Resilient States:** Comprehensive empty states, loading spinners, and graceful toast error handling if the database is temporarily unreachable.
 * **Strict Authorization:** Graph-level enforcement where only the `[:CREATED]` owner can edit or delete an entity.
 * **Live Dashboards:** Real-time balance calculations derived directly from the graph edges.
+
+## 🌐 Live Demo
+* **Frontend App:** `[Insert Your Frontend Vercel Link Here]`
+* **Backend API:** `https://apicleev-rho.vercel.app`
 
 ## ?? Setup & Run Instructions
 
